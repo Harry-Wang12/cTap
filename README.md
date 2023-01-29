@@ -19,7 +19,7 @@ We have developed a machine learning based method, called, Cohort-based TF targe
 
 
 ### Result
-Our experiment identified a small number of Up/Down IRF8 and NFATc1 target genes as relevant to osteoclast differentiation. The machine learning models using GP and GA produced NFATc1 and IRF8 target genes different than simply using a log2 fold change alone (Fig. 3). Our literature survey revealed that all predicted target genes have known roles in bone remodeling, specifically related to the immune system and osteoclast formation and functions, suggesting confidence and validity in our method.<br>
+Our experiment identified a small number of Up/Down IRF8 and NFATc1 target genes as relevant to osteoclast differentiation. The machine learning models using GP and GA produced NFATc1 and IRF8 target genes different than simply using a log2 fold change alone (Fig. 3). Our literature survey revealed that all predicted target genes have known roles in bone remodeling, specifically related to the immune system and osteoclast formation and functions, suggesting confidence and validity in our method.For details please check our <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08159-z">paper</a>.<br>
 <br>
 ![image](https://user-images.githubusercontent.com/114254986/215354868-b8879bde-462f-4a9e-9ae1-0f0e461bfed7.png)<br>
 *Fig. 3. ROC curve of 4 different models’ prediction results using genes in FGs and random genes (SVM, logistic regression, neural netowrk, naive bayes)*
