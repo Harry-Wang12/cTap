@@ -19,3 +19,8 @@
 <p><em>NOTCH1</em> – Regan et al. 2013  reported that Notch signaling plays context-dependent roles in the development and maintenance of many types of cells. In the skeleton, Notch signaling is responsible for proper differentiation and function of both osteoblasts and osteoclasts. Zanotti et al. 2016 pointed out that NOTCH1 has distinctive effects on inhibiting bone resorption secondary to an induction of osteoprotegerin. Our method identifies NOTCH1 in the Up target list of IRF8  suggesting a suppressive role of osteoclast differentiation, just like IRF8.</p>
 <p><em>IRF5</em> – Sun et al. 2017  stated that Interferon regulatory factor (IRF5) has an important role in the differentiation of macrophages derived from mouse bone marrow. According to the SVM model IRF5 may also suppress osteoclast differentiation through the activation of IRF8. </p>
 <p><em>CASP1</em> – Rocha et al. 2020 reported that CASP1 and NLRP3 deficiency increases the activity of RANKL-derived osteoclasts. When we combine both the osteoclast differentiation pathway diagram and the SVM result, CASP1 is down-regulated through IRF8 if osteoclast differentiation increases. The placement of CASP1 in the Up target of IRF8 is consistent with what has been reported by Rocha et al. 2020. </p>
+
+
+# Questions
+<p><em>For more information please connecting honglin.wang@uconn.edu</em></p>
+<p><em>For citation please check the <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08159-z">here</a></p>
